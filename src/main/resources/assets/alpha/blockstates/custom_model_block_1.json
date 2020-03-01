@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"facing=north": { "model": "alpha:block/custom_model_block_1" },
+		"facing=south": { "model": "alpha:block/custom_model_block_1", "y": 180 },
+		"facing=east": { "model": "alpha:block/custom_model_block_1", "y": 90 },
+		"facing=west": { "model": "alpha:block/custom_model_block_1", "y": 270 }
+	}
+}

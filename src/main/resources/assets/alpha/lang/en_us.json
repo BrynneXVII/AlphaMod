@@ -1,0 +1,24 @@
+{
+	"item.alpha.example_item": "Example Item",
+	"item.alpha.example_food": "Example Food",
+	"item.alpha.tall_flower_pot": "Tall Flower Pot",
+	"item.alpha.fuel_1": "Fuel 1",
+	"item.alpha.fuel_2": "Fuel 2",
+	
+	"item.alpha.blue_sword": "Blue Sword",
+	"item.alpha.blue_pickaxe": "Blue Pickaxe",
+	"item.alpha.blue_axe": "Blue Axe",
+	"item.alpha.blue_shovel": "Blue Shovel",
+	"item.alpha.blue_hoe": "Blue Hoe",
+	
+	"item.alpha.test_helmet": "Test Helmet",
+	"item.alpha.test_chestplate": "Test Chestplate",
+	"item.alpha.test_leggings": "Test Leggings",
+	"item.alpha.test_boots": "Test Boots",
+	
+	"block.alpha.example_block": "Example Block",
+	"block.alpha.blue_block": "Blue Block",
+	"block.alpha.custom_model_block_1": "Custom Model Block 1",
+	
+	"itemGroup.exampletab": "Example Tab"
+}

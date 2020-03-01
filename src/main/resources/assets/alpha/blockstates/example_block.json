@@ -1,0 +1,5 @@
+{
+	"variants": {
+		"": { "model": "alpha:block/example_block" }
+	}
+}
