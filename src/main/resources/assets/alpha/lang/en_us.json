@@ -19,6 +19,13 @@
 	"block.alpha.example_block": "Example Block",
 	"block.alpha.blue_block": "Blue Block",
 	"block.alpha.custom_model_block_1": "Custom Model Block 1",
+	"block.alpha.example_button": "Example Button",
+	"block.alpha.example_pressure_plate": "Example Pressure Plate",
+	"block.alpha.example_stairs": "Example Stairs",
+	"block.alpha.example_fence": "Example Fence",
+	
+	"block.alpha.test_crafting_table": "Test Crafting Table",
+	"block.alpha.quarry": "Quarry";
 	
 	"itemGroup.exampletab": "Example Tab"
 }

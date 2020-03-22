@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"tag": "minecraft:coals"
+		},
+		{
+			"tag": "minecraft:coals"
+		},
+		{
+			"item": "alpha:example_item"
+		}
+	],
+	"result": {
+		"item": "alpha:fuel_2",
+		"count": 2
+	}
+}

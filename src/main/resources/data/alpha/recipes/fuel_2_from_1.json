@@ -1,0 +1,11 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": {
+		"item": "alpha:fuel_1"
+	},
+	"result": {
+		"item": "alpha:fuel_2"
+	},
+	"experience": 5.0,
+	"cookingtime": 50
+}
